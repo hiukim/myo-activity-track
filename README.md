@@ -1,3 +1,13 @@
+## Introduction
+
+This is the accompanying source code for the below medium post
+
+https://medium.com/softmind-engineering/real-time-activity-recognition-with-accelerometer-and-gyroscope-sensor-myo-663cda8536e6
+
+## Caveats
+
+Sorry the source code of this repository isn't very well organized. I didn't have too much time to tidy up the code to make it more generic to use. The purpose of this repo is mainly for reference for the above medium post, but you are welcome to modify and use the code to accomplish your tasks.
+
 ## Collect Data
 
 collect_data.py is the sript to collect MYO data. 
